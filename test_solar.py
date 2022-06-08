@@ -1,3 +1,4 @@
+python3
 """Unit tests for solar.py Astronomy API client"""
 from requests import exceptions
 from unittest.mock import patch
